@@ -22,7 +22,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-st.divider()git push
+st.divider()
 
 st.title("🧾 Receipt-to-Form Auto-Fill Web App")
 
