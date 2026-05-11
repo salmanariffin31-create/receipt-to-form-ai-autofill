@@ -78,7 +78,7 @@ GEMINI_API_KEY=your_gemini_api_key_here
 6. Run the app
 streamlit run app.py
 
-Notes
-The .env file is not uploaded to GitHub for security reasons.
-If the Gemini API is experiencing high demand, extraction may temporarily fail. Try again after a short while.
-The extracted form is editable, so users can correct the AI output before submitting.
+Notes:
+-The .env file is not uploaded to GitHub for security reasons.
+-If the Gemini API is experiencing high demand, extraction may temporarily fail. Try again after a short while.
+-The extracted form is editable, so users can correct the AI output before submitting.
